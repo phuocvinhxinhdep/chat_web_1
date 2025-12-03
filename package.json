@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node back-end/server.js"
+    "start": "nodemon back-end/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   "homepage": "https://github.com/phuocvinhxinhdep/chat_web_1#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
   }
 }
