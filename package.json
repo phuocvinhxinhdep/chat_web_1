@@ -1,0 +1,22 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node back-end/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuocvinhxinhdep/chat_web_1.git"
+  },
+  "author": "Npvin11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuocvinhxinhdep/chat_web_1/issues"
+  },
+  "homepage": "https://github.com/phuocvinhxinhdep/chat_web_1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
