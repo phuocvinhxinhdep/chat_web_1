@@ -21,7 +21,7 @@ const HomePage = () => {
             </Box>
             <Box bg='white' w="100%" p={4} borderRadius={"lg"} color={'black'} borderWidth={"1px"}>
                 <Tabs.Root
-                    defaultValue="members"
+                    defaultValue="login"
                     variant="plain"
                     css={{
                         "--tabs-indicator-bg": "colors.gray.subtle",
